@@ -2,8 +2,8 @@
 
 Messing around a bit making an IOS app with react native and teasing my wife
 
-![playing](images/playing.png)
-![gif](images/gif1.gif)
+![playing](images/playing2.png)
+![gif](images/gif2.gif)
 
 ## Step 1: Start the Metro Server
 
