@@ -1,4 +1,9 @@
-# My Test IOS App Written in Swift
+# My Test IOS App with React Native
+
+Messing around a bit making an IOS app with react native and teasing my wife
+
+![playing](images/playing.png)
+![gif](images/gif1.gif)
 
 ## Step 1: Start the Metro Server
 
@@ -10,7 +15,7 @@ npm start
 yarn start
 ```
 
-## Step 2: Start your Application
+## Step 2: Start app
 
 ### For iOS
 
